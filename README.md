@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development <br><br>🌱 I’m currently learning Data Structure and Algorithm <br><br>💬 Ask me about Java, Kotlin and the Integration of Python with Kotlin <br><br>⚡ As an enthusiastic third-year undergraduate with a passion for fitness,<br>   I am constantly driven to push my academic and physical limits, forging a balanced path toward success.
+🔭 I’m currently working on Android Development <br><br>🌱 I’m currently learning Data Structure and Algorithm <br><br>💬 Ask me about Java, Kotlin and the Integration of Python with Android Apps<br><br>⚡ As an enthusiastic third-year undergraduate with a passion for fitness,<br>   I am constantly driven to push my academic and physical limits, forging a balanced path toward success.
 
 
 ## 🌐 Socials:
