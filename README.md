@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently engaged in Android development and actively expanding my knowledge in data structures and algorithms.<br><br>💬 Ask me about Java, Kotlin, and Developing ML based Android App<br><br>⚡ As an enthusiastic third-year undergraduate with a passion for fitness<br><br>lifeArray[0] = Programming 
+🔭 I actively expanding my knowledge of data structures and algorithms.<br><br>💬 Ask me about Java, JavaScript, and Python App<br><br>⚡ As an enthusiastic third-year undergraduate with a passion for fitness<br><br>lifeArray[0] = Programming 
 
 
 ## 🌐 Socials:
